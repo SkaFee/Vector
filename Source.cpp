@@ -669,8 +669,7 @@ void Benchmark() {
 			v.PushBack(c);
 		}
 		Dump();
-	}
-	catch (...) {
+	} catch (...) {
 		// do nothing
 	}
 }
